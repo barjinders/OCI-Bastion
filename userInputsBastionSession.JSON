@@ -10,5 +10,6 @@
     "key_type": "PUB",
     "session_ttl_in_seconds": 1800,
     "privateKey": "<Private Key Location>",
-    "localPort": "3389"
+    "localPort": "3389",
+    "maxSessionCount":5
 }
