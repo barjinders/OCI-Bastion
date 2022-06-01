@@ -26,7 +26,7 @@ bastion_client = oci.bastion.BastionClient(config)
 #Gloabl control variables
 WaitRefresh = 15
 sessionCount = 1
-maxSessionCount = 4
+maxSessionCount = data["maxSessionCount"]
 
 #Ceate a bastion session and wait for it to be active. 
 def create_bastion_session(userInputs):
