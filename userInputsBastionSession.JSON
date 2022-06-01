@@ -8,7 +8,7 @@
     "public_key_content": "ssh-rsa xxxxxxxxxxxx",
     "display_name": "FluffyCloudsSession",
     "key_type": "PUB",
-    "session_ttl_in_seconds": 1800,
+    "session_ttl_in_seconds": 10800,
     "privateKey": "<Private Key Location>",
     "localPort": "3389",
     "maxSessionCount":5
