@@ -1,0 +1,14 @@
+{
+    "bastionID": "ocid1.bastion.oc1.xxxxxx",
+    "sessionType": "PORT_FORWARDING",
+    "target_resource_operating_system_user_name": "opc",
+    "target_resource_id": "ocid1.instance.oc1.xxxxxxxxxx",
+    "target_resource_port": 3389,
+    "target_resource_private_ip_address": "x.y.x.n",
+    "public_key_content": "ssh-rsa xxxxxxxxxxxx",
+    "display_name": "FluffyCloudsSession",
+    "key_type": "PUB",
+    "session_ttl_in_seconds": 1800,
+    "privateKey": "<Private Key Location>",
+    "localPort": "3389"
+}
