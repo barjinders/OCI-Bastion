@@ -10,7 +10,7 @@ import json
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
 #Open user inputs file
-f = open('/Users/barjindersingh/Documents/OCI-Code/DNS/userInputsBastion.JSON')
+f = open('userInputsBastionSession.JSON')
 
 # parse the JSON file
 try:
